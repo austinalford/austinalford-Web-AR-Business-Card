@@ -2,18 +2,20 @@
 
 Web AR Business Card
 
+Project shows Web AR Business Card
 
-### Markdown
+Description
+This project was created as a part of the course "Introduction to AR/VR Application Development". The project demonstrates a Web AR Business Card. It consists of the following:
+
+index.html (main project file)
+readme.md (markdown file)
+image
+
+Project Screenshots
+
+### **Link to HTML webpage**
 
 
-```markdown
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
+### **Author**
+The author of the project: Austin Alford
 
