@@ -2,16 +2,16 @@
 
 Web AR Business Card
 
-Project shows Web AR Business Card
+**Project shows a Web AR Business Card**
 
-Description
+### **Description**
 This project was created as a part of the course "Introduction to AR/VR Application Development". The project demonstrates a Web AR Business Card. It consists of the following:
+- index.html (main project file) 
+- readme.md (markdown file)
+- 3D model
 
-index.html (main project file)
-readme.md (markdown file)
-image
+### **Project Screenshots**
 
-Project Screenshots
 
 ### **Link to HTML webpage**
 
